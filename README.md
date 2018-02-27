@@ -25,3 +25,5 @@ Components used:
   - implement ROOM
   - enable PeopleRepository to fetch either from localDB(room) or from remote api
   - explore LifecycleObservers and kotlin coroutines
+  - use different dagger scopes
+
